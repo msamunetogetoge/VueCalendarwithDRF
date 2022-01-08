@@ -1,3 +1,7 @@
+# modules
+vue_app/node_modules
+vue_app/dist/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
